@@ -8,7 +8,7 @@ Tanam.in is an educational application to help plant lovers as well as ordinary 
 
 - ### Onboarding
 
-<p align="center" width="80%">
+<p align="center" width="60%">
 <img width="33%" src="https://raw.githubusercontent.com/dewa27/readme-image-tanamin/master/1.%20Onboarding/device-2022-06-10-002916.png">
 <img width="33%" src="https://raw.githubusercontent.com/dewa27/readme-image-tanamin/master/1.%20Onboarding/device-2022-06-10-002929.png">
 <img width="33%" src="https://raw.githubusercontent.com/dewa27/readme-image-tanamin/master/1.%20Onboarding/device-2022-06-10-002951.png">
@@ -16,7 +16,7 @@ Tanam.in is an educational application to help plant lovers as well as ordinary 
 
 - ### Register
 
-<p align="center" width="100%">
+<p align="center" width="60%">
 <img width="33%" src="https://raw.githubusercontent.com/dewa27/readme-image-tanamin/master/2.%20Register/device-2022-06-10-003451.png">
 <img width="33%" src="https://raw.githubusercontent.com/dewa27/readme-image-tanamin/master/2.%20Register/device-2022-06-10-003509.png">
 <img width="33%" src="https://raw.githubusercontent.com/dewa27/readme-image-tanamin/master/2.%20Register/device-2022-06-10-003614.png">
