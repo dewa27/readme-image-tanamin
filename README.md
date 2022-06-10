@@ -8,7 +8,7 @@ Tanam.in is an educational application to help plant lovers as well as ordinary 
 
 - ### Onboarding
 
-<p align="center" width="100%">
+<p align="center" width="80%">
 <img width="33%" src="https://raw.githubusercontent.com/dewa27/readme-image-tanamin/master/1.%20Onboarding/device-2022-06-10-002916.png">
 <img width="33%" src="https://raw.githubusercontent.com/dewa27/readme-image-tanamin/master/1.%20Onboarding/device-2022-06-10-002929.png">
 <img width="33%" src="https://raw.githubusercontent.com/dewa27/readme-image-tanamin/master/1.%20Onboarding/device-2022-06-10-002951.png">
