@@ -1,7 +1,6 @@
-<p align="center" width="100%"><img width="15%" src="https://i.ibb.co/s1v1gY2/logo-01.png"></p>
-
 # Tanam.in - Your Gardening Superapps!
 
+<p align="center" width="100%"><img width="15%" src="https://i.ibb.co/s1v1gY2/logo-01.png"></p>
 Tanam.in is an educational application to help plant lovers as well as ordinary people to improve their farming and gardening experience. Tanam.in started from the emergence of a problem where the lack of education for plant lovers and ordinary people caused some of them to experience confusion when they wanted to plant and care for plants so they could get good results
 
 ## Features
